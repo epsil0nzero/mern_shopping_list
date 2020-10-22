@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import AppNavbar from './components/AppNavbar';
 import ShoppingList from './components/ShoppingList';
-import UserList from './components/UserList';
+import UserList from './components/user/UserList';
 import ItemModal from './components/ItemModal';
 import { Container } from 'reactstrap';
 
